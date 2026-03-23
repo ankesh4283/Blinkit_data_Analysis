@@ -167,3 +167,7 @@ Bigger stores do not guarantee higher performance.
 This project demonstrates the ability to transform raw data into meaningful business insights and support strategic decision-making using SQL.
 
 ---
+
+https://github.com/ankesh4283/Blinkit_data_Analysis/blob/main/Blinkit_image.png
+
+---
